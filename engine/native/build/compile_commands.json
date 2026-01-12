@@ -1,0 +1,146 @@
+[
+{
+  "directory": "C:/Users/Shiva/.gemini/wisprflex/engine/native/build/third_party/whisper.cpp/ggml/src",
+  "command": "C:\\msys64\\mingw64\\bin\\cc.exe -DGGML_COMMIT=\\\"679bdb53\\\" -DGGML_SCHED_MAX_COPIES=4 -DGGML_VERSION=\\\"0.9.5\\\" -D_CRT_SECURE_NO_WARNINGS -D_DISABLE_CONSTEXPR_MUTEX_CONSTRUCTOR -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-base.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -Wall -Wextra -Wpedantic -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wcast-qual -Wno-unused-function -Wdouble-promotion -o CMakeFiles\\ggml-base.dir\\ggml.c.obj -c C:\\Users\\Shiva\\.gemini\\wisprflex\\engine\\native\\third_party\\whisper.cpp\\ggml\\src\\ggml.c",
+  "file": "C:/Users/Shiva/.gemini/wisprflex/engine/native/third_party/whisper.cpp/ggml/src/ggml.c",
+  "output": "third_party/whisper.cpp/ggml/src/CMakeFiles/ggml-base.dir/ggml.c.obj"
+},
+{
+  "directory": "C:/Users/Shiva/.gemini/wisprflex/engine/native/build/third_party/whisper.cpp/ggml/src",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DGGML_COMMIT=\\\"679bdb53\\\" -DGGML_SCHED_MAX_COPIES=4 -DGGML_VERSION=\\\"0.9.5\\\" -D_CRT_SECURE_NO_WARNINGS -D_DISABLE_CONSTEXPR_MUTEX_CONSTRUCTOR -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-base.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -Wall -Wextra -Wpedantic -Wmissing-declarations -Wmissing-noreturn -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles\\ggml-base.dir\\ggml.cpp.obj -c C:\\Users\\Shiva\\.gemini\\wisprflex\\engine\\native\\third_party\\whisper.cpp\\ggml\\src\\ggml.cpp",
+  "file": "C:/Users/Shiva/.gemini/wisprflex/engine/native/third_party/whisper.cpp/ggml/src/ggml.cpp",
+  "output": "third_party/whisper.cpp/ggml/src/CMakeFiles/ggml-base.dir/ggml.cpp.obj"
+},
+{
+  "directory": "C:/Users/Shiva/.gemini/wisprflex/engine/native/build/third_party/whisper.cpp/ggml/src",
+  "command": "C:\\msys64\\mingw64\\bin\\cc.exe -DGGML_COMMIT=\\\"679bdb53\\\" -DGGML_SCHED_MAX_COPIES=4 -DGGML_VERSION=\\\"0.9.5\\\" -D_CRT_SECURE_NO_WARNINGS -D_DISABLE_CONSTEXPR_MUTEX_CONSTRUCTOR -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-base.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -Wall -Wextra -Wpedantic -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wcast-qual -Wno-unused-function -Wdouble-promotion -o CMakeFiles\\ggml-base.dir\\ggml-alloc.c.obj -c C:\\Users\\Shiva\\.gemini\\wisprflex\\engine\\native\\third_party\\whisper.cpp\\ggml\\src\\ggml-alloc.c",
+  "file": "C:/Users/Shiva/.gemini/wisprflex/engine/native/third_party/whisper.cpp/ggml/src/ggml-alloc.c",
+  "output": "third_party/whisper.cpp/ggml/src/CMakeFiles/ggml-base.dir/ggml-alloc.c.obj"
+},
+{
+  "directory": "C:/Users/Shiva/.gemini/wisprflex/engine/native/build/third_party/whisper.cpp/ggml/src",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DGGML_COMMIT=\\\"679bdb53\\\" -DGGML_SCHED_MAX_COPIES=4 -DGGML_VERSION=\\\"0.9.5\\\" -D_CRT_SECURE_NO_WARNINGS -D_DISABLE_CONSTEXPR_MUTEX_CONSTRUCTOR -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-base.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -Wall -Wextra -Wpedantic -Wmissing-declarations -Wmissing-noreturn -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles\\ggml-base.dir\\ggml-backend.cpp.obj -c C:\\Users\\Shiva\\.gemini\\wisprflex\\engine\\native\\third_party\\whisper.cpp\\ggml\\src\\ggml-backend.cpp",
+  "file": "C:/Users/Shiva/.gemini/wisprflex/engine/native/third_party/whisper.cpp/ggml/src/ggml-backend.cpp",
+  "output": "third_party/whisper.cpp/ggml/src/CMakeFiles/ggml-base.dir/ggml-backend.cpp.obj"
+},
+{
+  "directory": "C:/Users/Shiva/.gemini/wisprflex/engine/native/build/third_party/whisper.cpp/ggml/src",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DGGML_COMMIT=\\\"679bdb53\\\" -DGGML_SCHED_MAX_COPIES=4 -DGGML_VERSION=\\\"0.9.5\\\" -D_CRT_SECURE_NO_WARNINGS -D_DISABLE_CONSTEXPR_MUTEX_CONSTRUCTOR -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-base.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -Wall -Wextra -Wpedantic -Wmissing-declarations -Wmissing-noreturn -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles\\ggml-base.dir\\ggml-opt.cpp.obj -c C:\\Users\\Shiva\\.gemini\\wisprflex\\engine\\native\\third_party\\whisper.cpp\\ggml\\src\\ggml-opt.cpp",
+  "file": "C:/Users/Shiva/.gemini/wisprflex/engine/native/third_party/whisper.cpp/ggml/src/ggml-opt.cpp",
+  "output": "third_party/whisper.cpp/ggml/src/CMakeFiles/ggml-base.dir/ggml-opt.cpp.obj"
+},
+{
+  "directory": "C:/Users/Shiva/.gemini/wisprflex/engine/native/build/third_party/whisper.cpp/ggml/src",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DGGML_COMMIT=\\\"679bdb53\\\" -DGGML_SCHED_MAX_COPIES=4 -DGGML_VERSION=\\\"0.9.5\\\" -D_CRT_SECURE_NO_WARNINGS -D_DISABLE_CONSTEXPR_MUTEX_CONSTRUCTOR -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-base.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -Wall -Wextra -Wpedantic -Wmissing-declarations -Wmissing-noreturn -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles\\ggml-base.dir\\ggml-threading.cpp.obj -c C:\\Users\\Shiva\\.gemini\\wisprflex\\engine\\native\\third_party\\whisper.cpp\\ggml\\src\\ggml-threading.cpp",
+  "file": "C:/Users/Shiva/.gemini/wisprflex/engine/native/third_party/whisper.cpp/ggml/src/ggml-threading.cpp",
+  "output": "third_party/whisper.cpp/ggml/src/CMakeFiles/ggml-base.dir/ggml-threading.cpp.obj"
+},
+{
+  "directory": "C:/Users/Shiva/.gemini/wisprflex/engine/native/build/third_party/whisper.cpp/ggml/src",
+  "command": "C:\\msys64\\mingw64\\bin\\cc.exe -DGGML_COMMIT=\\\"679bdb53\\\" -DGGML_SCHED_MAX_COPIES=4 -DGGML_VERSION=\\\"0.9.5\\\" -D_CRT_SECURE_NO_WARNINGS -D_DISABLE_CONSTEXPR_MUTEX_CONSTRUCTOR -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-base.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -Wall -Wextra -Wpedantic -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wcast-qual -Wno-unused-function -Wdouble-promotion -o CMakeFiles\\ggml-base.dir\\ggml-quants.c.obj -c C:\\Users\\Shiva\\.gemini\\wisprflex\\engine\\native\\third_party\\whisper.cpp\\ggml\\src\\ggml-quants.c",
+  "file": "C:/Users/Shiva/.gemini/wisprflex/engine/native/third_party/whisper.cpp/ggml/src/ggml-quants.c",
+  "output": "third_party/whisper.cpp/ggml/src/CMakeFiles/ggml-base.dir/ggml-quants.c.obj"
+},
+{
+  "directory": "C:/Users/Shiva/.gemini/wisprflex/engine/native/build/third_party/whisper.cpp/ggml/src",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DGGML_COMMIT=\\\"679bdb53\\\" -DGGML_SCHED_MAX_COPIES=4 -DGGML_VERSION=\\\"0.9.5\\\" -D_CRT_SECURE_NO_WARNINGS -D_DISABLE_CONSTEXPR_MUTEX_CONSTRUCTOR -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-base.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -Wall -Wextra -Wpedantic -Wmissing-declarations -Wmissing-noreturn -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles\\ggml-base.dir\\gguf.cpp.obj -c C:\\Users\\Shiva\\.gemini\\wisprflex\\engine\\native\\third_party\\whisper.cpp\\ggml\\src\\gguf.cpp",
+  "file": "C:/Users/Shiva/.gemini/wisprflex/engine/native/third_party/whisper.cpp/ggml/src/gguf.cpp",
+  "output": "third_party/whisper.cpp/ggml/src/CMakeFiles/ggml-base.dir/gguf.cpp.obj"
+},
+{
+  "directory": "C:/Users/Shiva/.gemini/wisprflex/engine/native/build/third_party/whisper.cpp/ggml/src",
+  "command": "C:\\msys64\\mingw64\\bin\\cc.exe -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_REPACK -DGGML_USE_OPENMP -D_CRT_SECURE_NO_WARNINGS -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -Wall -Wextra -Wpedantic -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wcast-qual -Wno-unused-function -Wdouble-promotion -march=native -fopenmp -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\ggml-cpu.c.obj -c C:\\Users\\Shiva\\.gemini\\wisprflex\\engine\\native\\third_party\\whisper.cpp\\ggml\\src\\ggml-cpu\\ggml-cpu.c",
+  "file": "C:/Users/Shiva/.gemini/wisprflex/engine/native/third_party/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu.c",
+  "output": "third_party/whisper.cpp/ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.c.obj"
+},
+{
+  "directory": "C:/Users/Shiva/.gemini/wisprflex/engine/native/build/third_party/whisper.cpp/ggml/src",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_REPACK -DGGML_USE_OPENMP -D_CRT_SECURE_NO_WARNINGS -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -Wall -Wextra -Wpedantic -Wmissing-declarations -Wmissing-noreturn -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\ggml-cpu.cpp.obj -c C:\\Users\\Shiva\\.gemini\\wisprflex\\engine\\native\\third_party\\whisper.cpp\\ggml\\src\\ggml-cpu\\ggml-cpu.cpp",
+  "file": "C:/Users/Shiva/.gemini/wisprflex/engine/native/third_party/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu.cpp",
+  "output": "third_party/whisper.cpp/ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.cpp.obj"
+},
+{
+  "directory": "C:/Users/Shiva/.gemini/wisprflex/engine/native/build/third_party/whisper.cpp/ggml/src",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_REPACK -DGGML_USE_OPENMP -D_CRT_SECURE_NO_WARNINGS -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -Wall -Wextra -Wpedantic -Wmissing-declarations -Wmissing-noreturn -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\repack.cpp.obj -c C:\\Users\\Shiva\\.gemini\\wisprflex\\engine\\native\\third_party\\whisper.cpp\\ggml\\src\\ggml-cpu\\repack.cpp",
+  "file": "C:/Users/Shiva/.gemini/wisprflex/engine/native/third_party/whisper.cpp/ggml/src/ggml-cpu/repack.cpp",
+  "output": "third_party/whisper.cpp/ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/repack.cpp.obj"
+},
+{
+  "directory": "C:/Users/Shiva/.gemini/wisprflex/engine/native/build/third_party/whisper.cpp/ggml/src",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_REPACK -DGGML_USE_OPENMP -D_CRT_SECURE_NO_WARNINGS -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -Wall -Wextra -Wpedantic -Wmissing-declarations -Wmissing-noreturn -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\hbm.cpp.obj -c C:\\Users\\Shiva\\.gemini\\wisprflex\\engine\\native\\third_party\\whisper.cpp\\ggml\\src\\ggml-cpu\\hbm.cpp",
+  "file": "C:/Users/Shiva/.gemini/wisprflex/engine/native/third_party/whisper.cpp/ggml/src/ggml-cpu/hbm.cpp",
+  "output": "third_party/whisper.cpp/ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/hbm.cpp.obj"
+},
+{
+  "directory": "C:/Users/Shiva/.gemini/wisprflex/engine/native/build/third_party/whisper.cpp/ggml/src",
+  "command": "C:\\msys64\\mingw64\\bin\\cc.exe -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_REPACK -DGGML_USE_OPENMP -D_CRT_SECURE_NO_WARNINGS -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -Wall -Wextra -Wpedantic -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wcast-qual -Wno-unused-function -Wdouble-promotion -march=native -fopenmp -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\quants.c.obj -c C:\\Users\\Shiva\\.gemini\\wisprflex\\engine\\native\\third_party\\whisper.cpp\\ggml\\src\\ggml-cpu\\quants.c",
+  "file": "C:/Users/Shiva/.gemini/wisprflex/engine/native/third_party/whisper.cpp/ggml/src/ggml-cpu/quants.c",
+  "output": "third_party/whisper.cpp/ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/quants.c.obj"
+},
+{
+  "directory": "C:/Users/Shiva/.gemini/wisprflex/engine/native/build/third_party/whisper.cpp/ggml/src",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_REPACK -DGGML_USE_OPENMP -D_CRT_SECURE_NO_WARNINGS -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -Wall -Wextra -Wpedantic -Wmissing-declarations -Wmissing-noreturn -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\traits.cpp.obj -c C:\\Users\\Shiva\\.gemini\\wisprflex\\engine\\native\\third_party\\whisper.cpp\\ggml\\src\\ggml-cpu\\traits.cpp",
+  "file": "C:/Users/Shiva/.gemini/wisprflex/engine/native/third_party/whisper.cpp/ggml/src/ggml-cpu/traits.cpp",
+  "output": "third_party/whisper.cpp/ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/traits.cpp.obj"
+},
+{
+  "directory": "C:/Users/Shiva/.gemini/wisprflex/engine/native/build/third_party/whisper.cpp/ggml/src",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_REPACK -DGGML_USE_OPENMP -D_CRT_SECURE_NO_WARNINGS -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -Wall -Wextra -Wpedantic -Wmissing-declarations -Wmissing-noreturn -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\amx\\amx.cpp.obj -c C:\\Users\\Shiva\\.gemini\\wisprflex\\engine\\native\\third_party\\whisper.cpp\\ggml\\src\\ggml-cpu\\amx\\amx.cpp",
+  "file": "C:/Users/Shiva/.gemini/wisprflex/engine/native/third_party/whisper.cpp/ggml/src/ggml-cpu/amx/amx.cpp",
+  "output": "third_party/whisper.cpp/ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/amx.cpp.obj"
+},
+{
+  "directory": "C:/Users/Shiva/.gemini/wisprflex/engine/native/build/third_party/whisper.cpp/ggml/src",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_REPACK -DGGML_USE_OPENMP -D_CRT_SECURE_NO_WARNINGS -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -Wall -Wextra -Wpedantic -Wmissing-declarations -Wmissing-noreturn -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\amx\\mmq.cpp.obj -c C:\\Users\\Shiva\\.gemini\\wisprflex\\engine\\native\\third_party\\whisper.cpp\\ggml\\src\\ggml-cpu\\amx\\mmq.cpp",
+  "file": "C:/Users/Shiva/.gemini/wisprflex/engine/native/third_party/whisper.cpp/ggml/src/ggml-cpu/amx/mmq.cpp",
+  "output": "third_party/whisper.cpp/ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/mmq.cpp.obj"
+},
+{
+  "directory": "C:/Users/Shiva/.gemini/wisprflex/engine/native/build/third_party/whisper.cpp/ggml/src",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_REPACK -DGGML_USE_OPENMP -D_CRT_SECURE_NO_WARNINGS -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -Wall -Wextra -Wpedantic -Wmissing-declarations -Wmissing-noreturn -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\binary-ops.cpp.obj -c C:\\Users\\Shiva\\.gemini\\wisprflex\\engine\\native\\third_party\\whisper.cpp\\ggml\\src\\ggml-cpu\\binary-ops.cpp",
+  "file": "C:/Users/Shiva/.gemini/wisprflex/engine/native/third_party/whisper.cpp/ggml/src/ggml-cpu/binary-ops.cpp",
+  "output": "third_party/whisper.cpp/ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/binary-ops.cpp.obj"
+},
+{
+  "directory": "C:/Users/Shiva/.gemini/wisprflex/engine/native/build/third_party/whisper.cpp/ggml/src",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_REPACK -DGGML_USE_OPENMP -D_CRT_SECURE_NO_WARNINGS -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -Wall -Wextra -Wpedantic -Wmissing-declarations -Wmissing-noreturn -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\unary-ops.cpp.obj -c C:\\Users\\Shiva\\.gemini\\wisprflex\\engine\\native\\third_party\\whisper.cpp\\ggml\\src\\ggml-cpu\\unary-ops.cpp",
+  "file": "C:/Users/Shiva/.gemini/wisprflex/engine/native/third_party/whisper.cpp/ggml/src/ggml-cpu/unary-ops.cpp",
+  "output": "third_party/whisper.cpp/ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/unary-ops.cpp.obj"
+},
+{
+  "directory": "C:/Users/Shiva/.gemini/wisprflex/engine/native/build/third_party/whisper.cpp/ggml/src",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_REPACK -DGGML_USE_OPENMP -D_CRT_SECURE_NO_WARNINGS -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -Wall -Wextra -Wpedantic -Wmissing-declarations -Wmissing-noreturn -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\vec.cpp.obj -c C:\\Users\\Shiva\\.gemini\\wisprflex\\engine\\native\\third_party\\whisper.cpp\\ggml\\src\\ggml-cpu\\vec.cpp",
+  "file": "C:/Users/Shiva/.gemini/wisprflex/engine/native/third_party/whisper.cpp/ggml/src/ggml-cpu/vec.cpp",
+  "output": "third_party/whisper.cpp/ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/vec.cpp.obj"
+},
+{
+  "directory": "C:/Users/Shiva/.gemini/wisprflex/engine/native/build/third_party/whisper.cpp/ggml/src",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_REPACK -DGGML_USE_OPENMP -D_CRT_SECURE_NO_WARNINGS -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -Wall -Wextra -Wpedantic -Wmissing-declarations -Wmissing-noreturn -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\ops.cpp.obj -c C:\\Users\\Shiva\\.gemini\\wisprflex\\engine\\native\\third_party\\whisper.cpp\\ggml\\src\\ggml-cpu\\ops.cpp",
+  "file": "C:/Users/Shiva/.gemini/wisprflex/engine/native/third_party/whisper.cpp/ggml/src/ggml-cpu/ops.cpp",
+  "output": "third_party/whisper.cpp/ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ops.cpp.obj"
+},
+{
+  "directory": "C:/Users/Shiva/.gemini/wisprflex/engine/native/build/third_party/whisper.cpp/ggml/src",
+  "command": "C:\\msys64\\mingw64\\bin\\cc.exe -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_REPACK -DGGML_USE_OPENMP -D_CRT_SECURE_NO_WARNINGS -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -Wall -Wextra -Wpedantic -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wcast-qual -Wno-unused-function -Wdouble-promotion -march=native -fopenmp -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\arch\\x86\\quants.c.obj -c C:\\Users\\Shiva\\.gemini\\wisprflex\\engine\\native\\third_party\\whisper.cpp\\ggml\\src\\ggml-cpu\\arch\\x86\\quants.c",
+  "file": "C:/Users/Shiva/.gemini/wisprflex/engine/native/third_party/whisper.cpp/ggml/src/ggml-cpu/arch/x86/quants.c",
+  "output": "third_party/whisper.cpp/ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/arch/x86/quants.c.obj"
+},
+{
+  "directory": "C:/Users/Shiva/.gemini/wisprflex/engine/native/build/third_party/whisper.cpp/ggml/src",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU_REPACK -DGGML_USE_OPENMP -D_CRT_SECURE_NO_WARNINGS -D_XOPEN_SOURCE=600 @CMakeFiles/ggml-cpu.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -Wall -Wextra -Wpedantic -Wmissing-declarations -Wmissing-noreturn -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles\\ggml-cpu.dir\\ggml-cpu\\arch\\x86\\repack.cpp.obj -c C:\\Users\\Shiva\\.gemini\\wisprflex\\engine\\native\\third_party\\whisper.cpp\\ggml\\src\\ggml-cpu\\arch\\x86\\repack.cpp",
+  "file": "C:/Users/Shiva/.gemini/wisprflex/engine/native/third_party/whisper.cpp/ggml/src/ggml-cpu/arch/x86/repack.cpp",
+  "output": "third_party/whisper.cpp/ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/arch/x86/repack.cpp.obj"
+},
+{
+  "directory": "C:/Users/Shiva/.gemini/wisprflex/engine/native/build/third_party/whisper.cpp/ggml/src",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DGGML_SCHED_MAX_COPIES=4 -DGGML_USE_CPU -D_CRT_SECURE_NO_WARNINGS -D_XOPEN_SOURCE=600 @CMakeFiles/ggml.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -Wall -Wextra -Wpedantic -Wmissing-declarations -Wmissing-noreturn -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles\\ggml.dir\\ggml-backend-reg.cpp.obj -c C:\\Users\\Shiva\\.gemini\\wisprflex\\engine\\native\\third_party\\whisper.cpp\\ggml\\src\\ggml-backend-reg.cpp",
+  "file": "C:/Users/Shiva/.gemini/wisprflex/engine/native/third_party/whisper.cpp/ggml/src/ggml-backend-reg.cpp",
+  "output": "third_party/whisper.cpp/ggml/src/CMakeFiles/ggml.dir/ggml-backend-reg.cpp.obj"
+},
+{
+  "directory": "C:/Users/Shiva/.gemini/wisprflex/engine/native/build/third_party/whisper.cpp/src",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DGGML_USE_CPU -DWHISPER_VERSION=\\\"1.8.2\\\" -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/whisper.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -Wall -Wextra -Wpedantic -Wmissing-declarations -Wmissing-noreturn -Wcast-qual -Wno-unused-function -o CMakeFiles\\whisper.dir\\whisper.cpp.obj -c C:\\Users\\Shiva\\.gemini\\wisprflex\\engine\\native\\third_party\\whisper.cpp\\src\\whisper.cpp",
+  "file": "C:/Users/Shiva/.gemini/wisprflex/engine/native/third_party/whisper.cpp/src/whisper.cpp",
+  "output": "third_party/whisper.cpp/src/CMakeFiles/whisper.dir/whisper.cpp.obj"
+}
+]

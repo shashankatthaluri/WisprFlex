@@ -1,0 +1,70 @@
+﻿.\build\transcription_test.exe : whisper_init_from_file_with_params_no_state: loading model from 'C:\Users\Shiva\.wisprflex\models\ggml-base.bin'
+At line:1 char:48
++ ... $env:PATH"; .\build\transcription_test.exe "$HOME\.wisprflex\models\g ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (whisper_init_fr...\ggml-base.bin':String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 1
+whisper_init_with_params_no_state: backends   = 1
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51865
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 512
+whisper_model_load: n_audio_head  = 8
+whisper_model_load: n_audio_layer = 6
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 512
+whisper_model_load: n_text_head   = 8
+whisper_model_load: n_text_layer  = 6
+whisper_model_load: n_mels        = 80
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 2 (base)
+whisper_model_load: adding 1608 extra tokens
+whisper_model_load: n_langs       = 99
+whisper_model_load:          CPU total size =   147.37 MB
+whisper_model_load: model size    =  147.37 MB
+whisper_backend_init_gpu: device 0: CPU (type: 0)
+whisper_backend_init_gpu: no GPU found
+whisper_init_state: kv self size  =    6.29 MB
+whisper_init_state: kv cross size =   18.87 MB
+whisper_init_state: kv pad  size  =    3.15 MB
+whisper_init_state: compute buffer (conv)   =   16.28 MB
+whisper_init_state: compute buffer (encode) =   23.09 MB
+whisper_init_state: compute buffer (cross)  =    4.66 MB
+whisper_init_state: compute buffer (decode) =   96.37 MB
+
+========================================
+Phase 2.2.3 Transcription Validation
+Agent D: Single-Shot Test
+========================================
+
+[whisper_backend] Initialized
+Loading model: C:\Users\Shiva\.wisprflex\models\ggml-base.bin
+[whisper_backend] Loading model: C:\Users\Shiva\.wisprflex\models\ggml-base.bin
+[whisper_backend] Model loaded in 296.04 ms
+Model loaded.
+
+----------------------------------------
+File: C:\Users\Shiva\.wisprflex\test_audio\sample1.wav
+----------------------------------------
+  Sample rate: 8000 Hz
+  Duration: 33.62 seconds
+  Resampling to 16kHz...
+[whisper_backend] Running inference on 537970 samples...
+[whisper_backend] Inference completed in 26646.08 ms, 10 segments
+  Inference time: 26646.17 ms
+
+  [TRANSCRIPT]
+   The birch canoes lid on the smooth planks. Glue the sheet to the dark blue background. It is easy to tell the depth of a well. These days the chicken leg is a rare dish. Rice is often served in round bowls. The juice of lemons makes fine punch. The box was thrown beside the park truck. The hogs are fed chopped corn and garbage. Four hours of study work faced us. A large size in stockings is hard to sell.
+
+[whisper_backend] Model unloaded
+[whisper_backend] Shutdown
+========================================
+Transcription test complete.
+========================================

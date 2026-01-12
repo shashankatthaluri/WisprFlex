@@ -1,0 +1,2 @@
+C:\msys64\mingw64\bin\ar.exe qc libwhisper_backend.a CMakeFiles/whisper_backend.dir/whisper_backend/whisper_backend.cpp.obj
+C:\msys64\mingw64\bin\ranlib.exe libwhisper_backend.a

@@ -1,0 +1,2 @@
+C:\msys64\mingw64\bin\ar.exe qc libwisprflex_engine.a CMakeFiles/wisprflex_engine.dir/src/engine.cpp.obj
+C:\msys64\mingw64\bin\ranlib.exe libwisprflex_engine.a
