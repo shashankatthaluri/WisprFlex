@@ -1,5 +1,5 @@
-📘 WisprFlex — Phase 0 Executive Brief
-# phase 0 audit report 
+# 📘 WisprFlex — Phase 0 Executive Brief
+## phase 0 audit report 
 Audit & Decomposition Summary
 
 Date: 2026-01-09
