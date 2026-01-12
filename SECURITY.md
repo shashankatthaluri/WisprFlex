@@ -8,7 +8,7 @@ If you discover a security vulnerability in WisprFlex, please report it privatel
 
 ### How to Report
 
-Email: security@wisprflex.dev or shashankatthaluri@gmail.com (or use GitHub's private vulnerability reporting) 
+Email: security@wisprflex.dev with CC shashankatthaluri@gmail.com (or use GitHub's private vulnerability reporting) 
 
 ### What to Include
 
