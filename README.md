@@ -51,15 +51,15 @@ These limitations are **documented, measured, and intentional**.
 
 wisprflex/  
 ├── docs/ # Source of truth: architecture, phases, validation
-
+|
 ├── engine/ # WisprFlex Core transcription engine (C++ + Node)
-
+|
 ├── research/ # Read-only reference implementations
-
+| |
 │ └── openwhispr-reference/
-
+|
 ├── wisprflex/ # Future application layer (currently empty)
-
+|
 └── README.md # You are here
 
 
