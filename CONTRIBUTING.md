@@ -27,8 +27,8 @@ Thank you for your interest in contributing to WisprFlex.
 ### 1. Fork and Clone
 
 ```bash
-git clone https://github.com/your-username/wisprflex.git
-cd wisprflex
+git clone https://github.com/shashankatthaluri/WisprFlex.git
+cd WisprFlex
 ```
 
 ### 2. Build the Engine
