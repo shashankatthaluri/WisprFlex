@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📚 Read the Docs
+    url: https://github.com/shashankatthaluri/wisprflex/tree/main/docs
+    about: Most questions are answered here.
+
+  - name: 🔒 Security Issues
+    url: https://github.com/shashankatthaluri/wisprflex/security
+    about: Please report vulnerabilities privately.

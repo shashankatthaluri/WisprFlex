@@ -1,0 +1,46 @@
+name: ⚡ Performance Issue
+description: Report a performance regression or gate violation
+title: "[Performance]: "
+labels: ["performance"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Performance issues must include **measured data**.
+        Issues without numbers will be closed.
+
+  - type: input
+    id: metric
+    attributes:
+      label: Metric
+      placeholder: "First partial latency / Peak RSS / RTF"
+    validations:
+      required: true
+
+  - type: textarea
+    id: measurement
+    attributes:
+      label: Measured Results
+      placeholder: |
+        First partial: 2100 ms
+        Peak RSS: 410 MB
+        Model: base
+        Chunk: 4s
+    validations:
+      required: true
+
+  - type: textarea
+    id: target
+    attributes:
+      label: Expected / Target Value
+      placeholder: "From Phase 2 control doc"
+    validations:
+      required: true
+
+  - type: input
+    id: hardware
+    attributes:
+      label: Hardware
+      placeholder: "CPU, RAM, GPU"
+    validations:
+      required: true

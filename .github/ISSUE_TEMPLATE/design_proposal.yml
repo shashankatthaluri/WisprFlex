@@ -1,0 +1,46 @@
+name: 🧠 Design Proposal
+description: Propose a future design or architectural change
+title: "[Design]: "
+labels: ["design"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Design proposals are evaluated **only for future phases**.
+        Phase 2 architecture is LOCKED.
+
+  - type: input
+    id: phase
+    attributes:
+      label: Target Phase
+      placeholder: "Phase 3 or later"
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: Describe the idea clearly and concisely.
+    validations:
+      required: true
+
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Rationale
+      description: Why does this align with WisprFlex goals?
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: constraints
+    attributes:
+      label: Constraints
+      options:
+        - label: Does NOT modify Phase 2 APIs
+          required: true
+        - label: Does NOT introduce cloud dependencies
+          required: true
+        - label: Respects offline-first design
+          required: true

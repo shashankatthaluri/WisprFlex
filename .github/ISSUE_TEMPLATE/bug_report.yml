@@ -1,0 +1,58 @@
+name: 🐞 Bug Report
+description: Report a reproducible bug in WisprFlex
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This template is for **confirmed bugs** only.
+        If this is a question or idea, use a different template.
+
+  - type: input
+    id: phase
+    attributes:
+      label: Affected Phase
+      placeholder: "Phase 2.5 — Stability"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: What is happening?
+      description: Describe the incorrect behavior.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: How to reproduce
+      placeholder: |
+        1. Build with ...
+        2. Load model ...
+        3. Start session ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+
+  - type: input
+    id: platform
+    attributes:
+      label: Platform
+      placeholder: "Windows 11 / macOS / Linux"
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / stack traces
+      render: shell

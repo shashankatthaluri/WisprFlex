@@ -1,0 +1,19 @@
+name: ❓ Clarification
+description: Ask for clarification on existing documentation
+title: "[Clarification]: "
+labels: ["question"]
+body:
+  - type: input
+    id: doc
+    attributes:
+      label: Document Reference
+      placeholder: "docs/phase-2/README.md"
+    validations:
+      required: true
+
+  - type: textarea
+    id: question
+    attributes:
+      label: What is unclear?
+    validations:
+      required: true
